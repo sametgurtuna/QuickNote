@@ -132,7 +132,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👤 Geliştirici
 
-**Samet** - [GitHub](https://github.com/samet)
+**Samet GURTUNA** - [GitHub](https://github.com/sametgurtuna)
 
 ## 🙏 Teşekkürler
 
@@ -146,7 +146,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 <div align="center">
   <strong>🚀 Quick Note ile not almayı hızlandırın!</strong>
   <br><br>
-  <a href="https://github.com/samet/quicknote/releases">💾 Download</a> |
+  <a href="https://github.com/sametgurtuna/QuickNote/releases">💾 Download</a> |
   <a href="#">🐛 Report Bug</a> |
   <a href="#">💡 Request Feature</a>
 </div>

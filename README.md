@@ -4,8 +4,6 @@
 
 Quick Note, Windows için geliştirilmiş minimal ve güçlü bir not alma uygulamasıdır. Global kısayollarla anında erişim, gerçek zamanlı senkronizasyon ve kullanıcı dostu arayüzü ile günlük notlarınızı kolayca yönetin.
 
-![Quick Note Demo](https://via.placeholder.com/800x400/0f0f23/ffffff?text=Quick+Note+Demo)
-
 ## ✨ Özellikler
 
 ### 🚀 **Hızlı Erişim**
